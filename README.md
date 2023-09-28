@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Short-Link
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+A test project, to develop a short-link system.
+
+## Packages used in project
+
+- MUI-5
 
 ## Available Scripts
 
