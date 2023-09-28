@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 A test project, to develop a short-link system.
 
+## Packages used in project to optimized the development cycle
+
+- Prettier
+- EsLint
+- Husky
+
 ## Packages used in project
 
 - MUI-5
